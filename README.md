@@ -1,8 +1,8 @@
-# Get App
+# Get App FSD
 
-- webpack
+- Webpack
 - TypesScript
 - React v18
-- Redux Toolkit v1
-- UI
-- Less
+- Redux Toolkit
+- MUI
+- SASS
